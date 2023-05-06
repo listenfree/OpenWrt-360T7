@@ -10,4 +10,5 @@ OpenWrt-360T7编译源码
 # 参考
 [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
-# settings-Actions-general-Workflow permissions-read and write permissons必须设置，避免无法上传release
+# 注意
+settings-Actions-general-Workflow permissions-read and write permissons必须设置，避免无法上传release
